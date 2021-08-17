@@ -6,6 +6,7 @@
 #include <iostream>
 using namespace std;
 
+// 主要就是考二分查找
 
 namespace my1{ 
 /*
